@@ -1,0 +1,25 @@
+course_id,instructor_id,title,category,level,price,created_at,is_published
+1,1,Introduction to Machine Learning,Data Science,beginner,49.99,2021-02-01,true
+2,1,Deep Learning with Python,Data Science,advanced,89.99,2021-06-15,true
+3,2,HTML & CSS for Beginners,Web Development,beginner,29.99,2021-03-10,true
+4,2,React.js Complete Guide,Web Development,intermediate,69.99,2021-08-20,true
+5,2,Node.js Backend Development,Web Development,intermediate,74.99,2022-01-05,true
+6,3,Python for Data Analysis,Data Science,beginner,44.99,2021-04-01,true
+7,3,Statistics for Data Scientists,Data Science,intermediate,59.99,2021-10-10,true
+8,4,UX Research Methods,Design,beginner,39.99,2021-05-20,true
+9,4,Figma from Zero to Pro,Design,intermediate,54.99,2022-03-15,true
+10,5,Ethical Hacking Fundamentals,Cybersecurity,beginner,79.99,2021-07-01,true
+11,5,Network Security Advanced,Cybersecurity,advanced,99.99,2022-05-10,true
+12,6,iOS App Development with Swift,Mobile Development,intermediate,84.99,2021-09-01,true
+13,6,Android Development with Kotlin,Mobile Development,intermediate,84.99,2022-02-20,true
+14,7,SQL and Relational Databases,Database Systems,beginner,34.99,2021-11-01,true
+15,7,PostgreSQL Advanced Techniques,Database Systems,advanced,74.99,2022-04-01,true
+16,8,AWS Cloud Practitioner,Cloud Computing,beginner,59.99,2022-01-15,true
+17,8,Docker and Kubernetes,Cloud Computing,intermediate,79.99,2022-06-01,true
+18,1,Natural Language Processing,Data Science,advanced,94.99,2022-07-10,true
+19,3,Data Visualization with Tableau,Data Science,intermediate,49.99,2022-08-01,true
+20,4,Product Design Thinking,Design,advanced,64.99,2022-09-15,true
+21,5,Penetration Testing Bootcamp,Cybersecurity,advanced,109.99,2022-10-01,true
+22,7,NoSQL Databases with MongoDB,Database Systems,intermediate,64.99,2022-11-10,true
+23,2,Vue.js Mastery,Web Development,intermediate,69.99,2023-01-20,false
+24,6,Flutter Cross-Platform Apps,Mobile Development,advanced,89.99,2023-03-05,false

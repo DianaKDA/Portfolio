@@ -1,0 +1,26 @@
+message_id,user_id,course_id,content,sent_at
+1,1,1,How do I choose between supervised and unsupervised learning?,2022-04-05 10:00:00
+2,1,1,Thank you for the explanation! Now I understand the difference.,2022-04-06 11:00:00
+3,2,2,Could you recommend resources for backpropagation?,2022-06-05 09:00:00
+4,2,4,Is there a project for the React hooks lesson?,2022-09-15 14:00:00
+5,3,1,The linear regression lesson was very clear. Do you have exercises?,2022-08-05 10:00:00
+6,3,7,How is hypothesis testing used in real data projects?,2023-03-05 11:00:00
+7,4,9,Can you share more Figma templates for practice?,2023-02-20 09:00:00
+8,4,17,I am getting an error when building Docker images. Can you help?,2023-06-10 15:00:00
+9,5,6,Is pandas better than numpy for data cleaning?,2022-10-10 10:00:00
+10,5,10,What tools do ethical hackers use most in practice?,2023-04-10 11:00:00
+11,6,4,Where can I find the project files for the React course?,2022-11-10 09:00:00
+12,6,14,Can you explain the difference between INNER JOIN and LEFT JOIN?,2023-01-15 10:00:00
+13,7,8,Can you share an example user interview template?,2022-12-10 11:00:00
+14,8,17,How is Kubernetes different from Docker Swarm?,2023-05-25 09:00:00
+15,8,17,Thank you for the detailed answer about orchestration!,2023-05-26 10:00:00
+16,9,2,Is the CNN lesson enough to build image classifiers from scratch?,2023-03-10 11:00:00
+17,10,6,What is the best way to handle missing data in pandas?,2023-04-10 09:00:00
+18,10,7,Could you explain p-values in simpler terms?,2023-07-10 10:00:00
+19,11,12,How do I publish my iOS app to the App Store?,2023-05-10 11:00:00
+20,12,10,What is the best certification for ethical hacking?,2023-05-20 09:00:00
+21,13,4,How do I structure a large React project?,2023-09-10 10:00:00
+22,14,14,Can you explain when to use indexes in PostgreSQL?,2023-06-20 11:00:00
+23,15,1,Is Python required before taking this ML course?,2023-07-10 09:00:00
+24,17,16,How is AWS different from Azure for a beginner?,2023-08-10 10:00:00
+25,19,5,How do I deploy a Node.js app to production?,2023-09-10 11:00:00

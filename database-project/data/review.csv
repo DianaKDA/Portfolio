@@ -1,0 +1,26 @@
+review_id,user_id,course_id,rating,review_text,review_data,updated_at
+1,1,1,5,Excellent introduction! Clear explanations and great examples.,2022-06-12,
+2,1,3,4,Very beginner-friendly. Could use more practice exercises.,2022-05-22,2022-07-01 10:00:00
+3,2,4,5,Best React course I have found. Covers everything you need.,2023-01-08,
+4,2,2,4,Challenging but rewarding. Great depth on deep learning.,2023-09-01,2023-10-05 10:00:00
+5,3,1,5,Perfect for someone new to ML. Highly recommend!,2022-10-18,
+6,4,3,3,Good basics but skips some important CSS topics.,2022-11-05,2022-12-01 09:00:00
+7,5,6,5,Pandas and NumPy explained beautifully. Love this course.,2023-01-12,
+8,6,4,5,Incredible course. Got my first React job after this!,2023-02-18,
+9,6,14,4,Solid SQL fundamentals. Would love more advanced topics.,2023-04-25,
+10,7,8,5,Great UX research methods explained in a practical way.,2023-03-12,
+11,8,16,4,Good overview of AWS. Some sections feel a bit rushed.,2023-05-18,2023-06-10 11:00:00
+12,9,2,5,The best deep learning course out there. Very comprehensive.,2023-07-25,
+13,10,6,5,Absolutely love this course. Data analysis has never been easier.,2023-08-18,
+14,12,10,4,Great introduction to ethical hacking. Very engaging content.,2023-10-05,
+15,13,3,5,Perfect starting point. Now I can build my own websites!,2023-08-23,
+16,14,14,5,Fantastic SQL course. Learned more here than in university.,2023-09-12,
+17,15,6,4,Good course overall. Some examples could be more complex.,2024-01-18,2024-02-01 10:00:00
+18,16,8,5,Really well structured. The instructor explains everything clearly.,2023-11-05,
+19,17,16,5,Cloud computing made simple. Now I feel confident with AWS.,2023-12-13,
+20,21,7,4,Statistics explained in a very accessible way. Recommended!,2024-02-05,
+21,22,10,5,Loved every lesson. Ethical hacking is now my passion.,2024-01-13,
+22,23,3,5,Wonderful course for beginners. Started from zero now I code!,2024-02-22,
+23,24,14,5,Best SQL course on the platform. Practical and concise.,2024-02-08,
+24,19,5,4,Node.js explained very well. REST API section is outstanding.,2024-01-23,
+25,4,9,3,Good Figma course but could use more advanced design topics.,2024-03-01,2024-03-10 14:00:00

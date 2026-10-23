@@ -1,0 +1,26 @@
+user_id,full_name,email,registration_data,country
+1,Alice Johnson,alice.johnson@email.com,2022-03-15,USA
+2,Bob Smith,bob.smith@email.com,2022-05-20,UK
+3,Carol White,carol.white@email.com,2022-07-10,Canada
+4,David Brown,david.brown@email.com,2022-08-01,Australia
+5,Eva Martinez,eva.martinez@email.com,2022-09-12,Spain
+6,Frank Lee,frank.lee@email.com,2022-10-05,South Korea
+7,Grace Kim,grace.kim@email.com,2022-11-18,South Korea
+8,Henry Wilson,henry.wilson@email.com,2023-01-22,USA
+9,Irene Taylor,irene.taylor@email.com,2023-02-14,Germany
+10,Jack Anderson,jack.anderson@email.com,2023-03-30,France
+11,Karen Thomas,karen.thomas@email.com,2023-04-07,Brazil
+12,Leo Jackson,leo.jackson@email.com,2023-05-19,Mexico
+13,Mia Harris,mia.harris@email.com,2023-06-25,Italy
+14,Noah Clark,noah.clark@email.com,2023-07-03,Netherlands
+15,Olivia Lewis,olivia.lewis@email.com,2023-08-11,Sweden
+16,Paul Walker,paul.walker@email.com,2023-09-22,Norway
+17,Quinn Hall,quinn.hall@email.com,2023-10-15,Denmark
+18,Rachel Young,rachel.young@email.com,2023-11-28,Poland
+19,Samuel Allen,samuel.allen@email.com,2024-01-09,USA
+20,Tina Scott,tina.scott@email.com,2024-02-17,UK
+21,Uma Green,uma.green@email.com,2024-03-05,India
+22,Victor Adams,victor.adams@email.com,2024-04-20,India
+23,Wendy Baker,wendy.baker@email.com,2024-05-13,Canada
+24,Xander Carter,xander.carter@email.com,2024-06-01,Australia
+25,Yara Mitchell,yara.mitchell@email.com,2024-07-08,Argentina

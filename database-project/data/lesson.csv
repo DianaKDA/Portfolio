@@ -1,0 +1,49 @@
+lesson_id,course_id,title,lesson_no,duration_min,is_free_preview
+1,1,What is Machine Learning?,1,45,true
+2,1,Types of ML Algorithms,2,60,false
+3,1,Setting Up Python Environment,3,45,true
+4,1,Linear Regression,4,90,false
+5,1,Model Evaluation Metrics,5,75,false
+6,2,Neural Network Basics,1,60,true
+7,2,Building Your First Neural Net,2,90,false
+8,2,Convolutional Neural Networks,3,120,false
+9,2,Recurrent Neural Networks,4,120,false
+10,3,Introduction to HTML,1,45,true
+11,3,HTML Tags and Structure,2,45,false
+12,3,CSS Selectors,3,60,false
+13,3,CSS Flexbox,4,75,false
+14,4,React Core Concepts,1,60,true
+15,4,Components and Props,2,75,false
+16,4,State and Lifecycle,3,90,false
+17,4,React Hooks,4,75,false
+18,4,React Router,5,60,false
+19,5,Intro to Node.js,1,45,true
+20,5,Express Framework,2,75,false
+21,5,REST API Design,3,90,false
+22,5,Authentication with JWT,4,120,false
+23,6,Why Python for Data?,1,45,true
+24,6,Pandas Basics,2,75,false
+25,6,NumPy Arrays,3,60,false
+26,6,Data Cleaning Techniques,4,90,false
+27,7,Descriptive Statistics,1,60,true
+28,7,Probability Theory,2,90,false
+29,7,Hypothesis Testing,3,90,false
+30,8,What is UX Research?,1,45,true
+31,8,User Interviews,2,75,false
+32,8,Usability Testing,3,90,false
+33,9,Figma Interface Tour,1,45,true
+34,9,Components and Variants,2,75,false
+35,9,Prototyping in Figma,3,90,false
+36,10,What is Ethical Hacking?,1,45,true
+37,10,Reconnaissance Techniques,2,75,false
+38,10,Exploitation Basics,3,90,false
+39,14,Introduction to SQL,1,45,true
+40,14,SELECT Queries,2,60,false
+41,14,JOINs Explained,3,90,false
+42,14,Indexes and Performance,4,75,false
+43,16,Cloud Computing Overview,1,45,true
+44,16,AWS Core Services,2,75,false
+45,16,IAM and Security,3,90,false
+46,17,Docker Fundamentals,1,60,true
+47,17,Building Docker Images,2,75,false
+48,17,Kubernetes Architecture,3,90,false

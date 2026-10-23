@@ -1,0 +1,9 @@
+instructor_id,full_name,email,specialization,hire_date
+1,Dr. Alan Cooper,alan.cooper@platform.com,Machine Learning,2020-01-10
+2,Prof. Barbara Stone,barbara.stone@platform.com,Web Development,2020-03-15
+3,Dr. Carlos Ruiz,carlos.ruiz@platform.com,Data Science,2020-06-01
+4,Ms. Diana Prince,diana.prince@platform.com,UX Design,2021-01-20
+5,Mr. Edward Fox,edward.fox@platform.com,Cybersecurity,2021-04-05
+6,Dr. Fiona Grant,fiona.grant@platform.com,Mobile Development,2021-07-12
+7,Prof. George Hill,george.hill@platform.com,Database Systems,2021-09-30
+8,Ms. Hannah Reed,hannah.reed@platform.com,Cloud Computing,2022-02-14
